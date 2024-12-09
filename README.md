@@ -42,7 +42,7 @@
 <a href="https://github.com/MoizSheikh" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
 </a>
-<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
+<a href="https://stackoverflow.com/users/14653270/abdul-moiz-sheikh" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Stack Overflow logo" />
 </a>
 <a href="https://abdulmoizsheikh.tech" target="_blank">
