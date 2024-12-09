@@ -40,10 +40,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=tamion&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://tryhackme.com/p/Tamion" target="_blank">
+  <a href="https://tryhackme.com/p/moizsheikh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
-  <a href="https://twitter.com/notTamion" target="_blank">
+  <a href="https://twitter.com/MoizSheikh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
@@ -51,8 +51,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="Github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="GitHub-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="GitHub-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
