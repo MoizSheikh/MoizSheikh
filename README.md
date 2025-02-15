@@ -38,6 +38,13 @@
 
 ###
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MoizSheikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MoizSheikh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizSheikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <div align="center">
 <a href="https://github.com/MoizSheikh" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
