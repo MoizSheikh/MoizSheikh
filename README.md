@@ -1,12 +1,5 @@
 <h1 align="center">Hey👋!</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MoizSheikh&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
@@ -35,15 +28,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MoizSheikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MoizSheikh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizSheikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
 <a href="https://github.com/MoizSheikh" target="_blank">
