@@ -1,6 +1,7 @@
 <h1 align="center">Moiz Sheikh</h1>
 
-<p align="center">Full-stack engineer — 4 years building consumer-scale web products</p>
+<p align="center">I build and scale consumer products — e-commerce, marketplaces, and two live apps of my own</p>
+<p align="center">React/Next.js · TypeScript · Python/FastAPI · 4 years</p>
 
 <p align="center">
   <a href="mailto:abdulmoizsheikhh@gmail.com"><img src="https://img.shields.io/badge/Email-abdulmoizsheikhh%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
@@ -30,6 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoizSheikh&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=transparent&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoizSheikh&layout=compact&theme=transparent&hide_border=true&hide=scss,html,css" alt="Top languages" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoizSheikh&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=transparent&hide_border=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoizSheikh&layout=compact&theme=transparent&hide_border=true&hide=scss,html,css" alt="Top languages" height="165">
 </p>
