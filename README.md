@@ -11,7 +11,7 @@
 ---
 
 - 🛠 **Now** — Full Stack Engineer at [Laam](https://laam.pk): SSR e-commerce storefront, design systems, Python backend services
-- 🏗 **Before** — Dubizzle Group (Bayut & OLX): tech lead of a 6-engineer team on the group's central CRM, frontend across 15+ country configurations
+- 🏗 **Before** — Dubizzle Group (Bayut & OLX): tech lead of a 6-engineer team on the group's central CRM — led its React 16→18 migration, multi-tenant frontend across 15+ country configurations
 - 🚀 **Live things I built solo** — [alignwithme.com](https://alignwithme.com) · [hoopwrld.com](https://hoopwrld.com)
 - 📦 **[Mycelium (MyCLM)](https://my-clm.com/platform/)** — multi-tenant ops platform for freight forwarders: email → shipment pipeline, visual workflow engine, invoicing & PDF generation. Architected and built end-to-end
 - 🔒 Most of my recent work lives in private repos — happy to walk through any of it
