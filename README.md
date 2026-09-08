@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoizSheikh&theme=transparent&hide_border=true" alt="GitHub streak" height="170">
+  <img src="https://streak-stats.demolab.com?user=MoizSheikh&theme=transparent&hide_border=true&mode=weekly" alt="GitHub streak" height="170">
 </p>
