@@ -13,6 +13,7 @@
 - 🛠 **Now** — Full Stack Engineer at [Laam](https://laam.pk): SSR e-commerce storefront, design systems, Python backend services
 - 🏗 **Before** — Dubizzle Group (Bayut & OLX): led OLX Pakistan's React 18 migration, tech lead on the group's central CRM
 - 🚀 **Live things I built solo** — [alignwithme.com](https://alignwithme.com) · [hoopwrld.com](https://hoopwrld.com)
+- 📦 **[Mycelium (MyCLM)](https://my-clm.com/platform/)** — multi-tenant ops platform for freight forwarders: email → shipment pipeline, visual workflow engine, invoicing & PDF generation. Architected and built end-to-end
 - 🔒 Most of my recent work lives in private repos — happy to walk through any of it
 
 ### Stack
@@ -31,6 +32,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoizSheikh&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=transparent&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoizSheikh&layout=compact&theme=transparent&hide_border=true&hide=scss,html,css" alt="Top languages" height="165">
+  <img src="https://streak-stats.demolab.com?user=MoizSheikh&theme=transparent&hide_border=true" alt="GitHub streak" height="170">
 </p>
