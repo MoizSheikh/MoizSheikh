@@ -1,5 +1,7 @@
 <h1 align="center">Hey, I'm Moiz 👋</h1>
 
+<p align="center"><b>Full Stack Engineer · Ads platform serving 100K+ impressions/day</b></p>
+
 <p align="center">I build and scale consumer products — e-commerce, marketplaces, ads, and live apps of my own</p>
 
 <p align="center">
