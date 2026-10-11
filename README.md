@@ -1,7 +1,7 @@
 <h1 align="center">Moiz Sheikh</h1>
 
 <p align="center">I build and scale consumer products — e-commerce, marketplaces, and two live apps of my own</p>
-<p align="center">React/Next.js · TypeScript · Python/FastAPI · 4 years</p>
+<p align="center">React/Next.js · TypeScript · Python/FastAPI </p>
 
 <p align="center">
   <a href="mailto:abdulmoizsheikhh@gmail.com"><img src="https://img.shields.io/badge/Email-abdulmoizsheikhh%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
