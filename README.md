@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Moiz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Ads+platform+serving+100K%2B+impressions%2Fday;Multi-tenant+SaaS+for+freight+forwarders;Three+products+live%2C+built+solo" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer+%C2%B7+React+%C2%B7+Python;Ads+platform+serving+100K%2B+impressions%2Fday;Three+products+live%2C+built+solo" alt="Typing intro">
 </p>
 
 <p align="center">I build and scale consumer products — e-commerce, marketplaces, ads, and live apps of my own</p>
